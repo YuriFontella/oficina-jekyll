@@ -1,0 +1,11 @@
+<head>
+	<meta charset='UTF-8'>
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<title>{% if page.titulo %}{{ page.titulo }}{% else %}{{ site.titulo }}{% endif %}</title>
+	<meta name='description' content='{{ site.descricao }}'>
+	<meta name='author' content='{{ site.autor.nome }}'>
+	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src='{{ site.baseurl }}/assets/js/bootstrap.js'></script>
+	<link href='{{ site.baseurl }}/assets/css/bootstrap.css' type='text/css' rel='stylesheet'>
+	<link href='{{ site.baseurl }}/assets/css/styles.css' type='text/css' rel='stylesheet'>
+</head>

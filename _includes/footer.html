@@ -1,0 +1,13 @@
+<footer class='footer' style="margin-top: 40px">
+	<div class='container'>
+		<p class='text-muted'> Website feito por {{ site.autor.nome }} |
+		{% for midias in site.social %}
+			{% if midias.url %}
+				<a href='{{midias.url}}'>{{ midias.nome }}</a> |
+			{% endif %}
+		{% endfor %}
+		</p>
+	</div>
+</footer>
+<br/>
+<br/>

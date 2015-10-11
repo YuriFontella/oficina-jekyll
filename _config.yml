@@ -1,0 +1,34 @@
+# Configurações Jekyll
+markdown: kramdown
+highlighter: rouge
+
+# Configurações Autor
+autor:
+  nome: Yuri Fontella
+  email: yurifc4@gmail.com
+  profissao: Estudante
+  avatar: 'assets/img/avatar.jpg'
+
+
+# Configurações Website
+titulo: Jekyll - Oficina
+descricao: "Um simples treinamento utilizando jekyll, bootstrap e github"
+cover: "assets/img/cover.jpg"
+baseurl: ""
+url: "http://127.0.0.1:4000/"
+permalink: /:title
+
+# Social
+
+social:
+  - nome: Twitter
+    icone: twitter
+    url: "https://twitter.com"
+
+  - nome: Facebook
+    icone: facebook
+    url: "https://facebook.com"
+
+  - nome: GitHub
+    icone: github
+    url: "https://github.com"

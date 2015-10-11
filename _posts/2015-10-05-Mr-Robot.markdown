@@ -1,0 +1,28 @@
+---
+titulo: Mr. Robot
+autor: Yuri Fontella
+data: 05/10/2015
+layout: post
+comments: true
+cover: '../assets/img/post-01-thumbnail.jpg'
+---
+
+## {{ page.titulo }}
+
+Mr. Robot é uma série de televisão dramática americana criada por Sam Esmail.[1] A série começou a ser exibida na USA Network em 24 de junho de 2015. No dia 27 de maio de 2015 ocorreu a estréia do piloto em vários serviços on-line e de vídeo sob demanda.[2] Antes da série estrear foi anunciado que ela havia sido renovada para uma segunda temporada.[3]
+
+A série fala sobre Elliot Alderson, um jovem que vive em Nova York, que trabalha na Allsafe, uma empresa de segurança cibernética, como um programador. Elliot tem transtorno de sociofobia, mas se conecta com as pessoas hackeando-as e age como um vigilante cibernético. Ele é recrutado por um anarquista social misterioso conhecido como "Mr. Robot", e se junta a sua equipe de hackers, conhecidos como "fsociety". Uma das suas missões é para derrubar uma das maiores corporações do mundo, a E Corp (chamada de "Evil Corp" por Elliot), uma empresa que Elliot é pago para proteger.
+
+USA Network deu uma ordem ao episódio piloto de Mr. Robot em julho de 2014, e pegou-o à série com uma ordem de 10 episódios em dezembro de 2014. A produção começou em Nova Iorque, em 13 de abril de 2015. Mr. Robot foi renovada para uma segunda temporada, que também terá 10 episódios.
+
+Elenco principal
+
+    Rami Malek como Elliot Alderson, um técnico de segurança na Allsafe Cybersecurity e um hacker vigilante. Ele tem transtorno de ansiedade social e depressão crônica que faz com que ele viva isolado das outras pessoas.
+
+    Christian Slater como Mr. Robot, um anarquista que recruta Elliot em um grupo de hackers chamado fsociety.
+
+    Portia Doubleday como Angela Moss, amigo de infância de Elliot e sua colega de trabalho na Allsafe.
+
+    Carly Chaikin como Darlene, um dos hackers da fsociety.
+
+    Martin Wallström como Tyrell Wellick, Vice-Presidente Sênior de Tecnologia da E Corp.

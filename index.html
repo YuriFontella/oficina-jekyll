@@ -1,0 +1,19 @@
+---
+layout: homepage
+cover: 'assets/img/cover.jpg'
+---
+
+{% for post in site.posts %}
+<div style='max-width: 650px;'>
+  <h3>
+    <a href='{{ post.url }}'>{{ post.titulo }}</a>
+  </h3>
+  <p style='text-align: justify;'>
+    {{ post.content | strip_html | truncatewords: 50 }}
+  </p>
+  <div style='float:left'><span class="glyphicon glyphicon-time" aria-hidden="true"> <b>{{ post.data }}</b></div>
+  <div style='float:right'><span class="glyphicon glyphicon-user" aria-hidden="true"></span> {{ post.autor }}</div>
+  <br/>
+  <hr style='clear: left;'>
+</div>
+{% endfor %}
